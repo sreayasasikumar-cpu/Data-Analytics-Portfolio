@@ -1,5 +1,9 @@
 # Machine Health & Equality Analysis Dashboard
 
+💡 Developed as part of a Data Analytics internship simulation (Deloitte)
+
+---
+
 ## 📊 Overview
 This project analyzes machine health and downtime across multiple factories using industrial telemetry data. The objective is to identify performance issues, reduce downtime, and improve operational efficiency through data-driven insights.
 
@@ -21,12 +25,13 @@ This project analyzes machine health and downtime across multiple factories usin
 ## 📁 Dataset Details
 - Industrial machine telemetry dataset
 - Includes factory location, device type, and machine health status
+- Dataset contains multiple factories and device categories used for performance comparison
 - Used to identify downtime patterns and performance issues across factories
 
 ---
 
 ## 🎯 Business Impact
-- Helps identify underperforming factories and machines
+- Identifies underperforming factories and high-risk machines for targeted improvements
 - Enables data-driven decision-making to reduce downtime
 - Supports optimization of maintenance strategies and operational efficiency
 
