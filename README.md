@@ -31,9 +31,9 @@ This project analyzes machine health and downtime across multiple factories usin
 ---
 
 ## 🎯 Business Impact
-- Identifies underperforming factories and high-risk machines for targeted improvements
-- Enables data-driven decision-making to reduce downtime
-- Supports optimization of maintenance strategies and operational efficiency
+- Identifies high-downtime factories and critical machines requiring immediate attention
+- Supports reduction of operational downtime through targeted maintenance strategies
+- Enables data-driven decision-making to improve factory performance and efficiency
 
 ---
 
